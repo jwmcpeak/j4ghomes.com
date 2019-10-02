@@ -1,0 +1,10 @@
+html,body {
+    height:100%;
+}
+
+
+img.logo {
+    display:block;
+    margin: 50px auto;
+    width: 400px;
+}
